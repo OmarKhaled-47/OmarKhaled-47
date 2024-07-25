@@ -6,6 +6,7 @@
 <p align="center">
 <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarkhaled-47&label=Profile%20views&color=0e75b6&style=flat" alt="omarkhaled-47" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkhaled-47" alt="omarkhaled-47" /></a> </p>
 
 ###
