@@ -2,11 +2,27 @@
 <h3 align="center">A Software Engineer</h3>
 
 ###
+
 <p align="left">
-<img height="160" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
+<img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkhaled-47" alt="omarkhaled-47" /></a> </p>
+
 ###
+
+- 🔭 I’m currently working on **Full stack E-commerce**
+
+- 🌱 I’m currently learning **Flutter, C#**
+
+- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/omar-khaled1878](https://www.linkedin.com/in/omar-khaled1878)
+
+- 💬 Ask me about **React, Nodejs, Nextjs, JavaScript**
+
+- 📫 How to reach me **omar.khaled1878@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13-ekOfKqneJdpe0K5ZoaMVq7_KZM-G9b/view?usp=sharing](https://drive.google.com/file/d/13-ekOfKqneJdpe0K5ZoaMVq7_KZM-G9b/view?usp=sharing)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -82,3 +98,10 @@
 </div>
 
 ###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkhaled-47&show_icons=true&locale=en&layout=compact" alt="omarkhaled-47" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarkhaled-47&show_icons=true&locale=en" alt="omarkhaled-47" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhaled-47&" alt="omarkhaled-47" /></p>
+
