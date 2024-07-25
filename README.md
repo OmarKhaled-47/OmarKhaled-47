@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋 Welcome to my GitHub profile i'm Omar Khaled - Software Engineer</h2>
+<h1 align="center">Hi 👋, I'm omar khaled</h1>
+<h3 align="center">A Software Engineer</h3>
 
 ###
-
-<img align="right" height="160" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
-
+<p align="left">
+<img height="160" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
+</p>
 ###
 
 <div align="left">
