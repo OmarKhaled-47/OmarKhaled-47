@@ -5,6 +5,7 @@
 <p align="left">
 <img height="160" src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarkhaled-47" alt="omarkhaled-47" /></a> </p>
 ###
 
 <div align="left">
