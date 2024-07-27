@@ -89,7 +89,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="omar.khaled1878@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/omar-khaled1878" target="_blank">
@@ -98,6 +98,6 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkhaled-47&show_icons=true&locale=en&layout=compact" alt="omarkhaled-47" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhaled-47&" alt="omarkhaled-47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarkhaled-47&show_icons=true&locale=en&layout=compact" alt="omarkhaled-47" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhaled-47&" alt="omarkhaled-47" /></p>
 
