@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm omar khaled</h1>
 <h2 align="center">A Software Engineer</h2>
 
-###
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/7b/6d/ef/7b6def1234d467fcc28e77c9cc7e3eda.gif"  />
 </p>
 
-###
 
 
 <div align="left">
